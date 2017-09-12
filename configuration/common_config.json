@@ -1,7 +1,7 @@
 {
     "mq":{
-        "user":"govi",
-        "password":"govi@123",
+        "user":"username",
+        "password":"password",
         "host":"mq",
         "port":5672,
         "queues":{
