@@ -1,0 +1,22 @@
+{
+    "mq":{
+        "user":"govi",
+        "password":"govi@123",
+        "host":"mq",
+        "port":5672,
+        "queues":{
+                "alerts":[
+                         10,
+                         20
+                ],
+                "queue_data":[
+                         10,
+                         20
+                ],
+                "monfig":[
+                         10,
+                         20
+                ]
+        }
+    }
+}
